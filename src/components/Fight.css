@@ -1,0 +1,16 @@
+.fight{
+    margin-top: 5%;
+    text-align: center;
+    align-items: center;
+
+}
+
+.vs{
+    font-size: 3rem;
+
+}
+
+.win-lose{
+    font-size: 3rem;
+    font-weight: bold;
+}

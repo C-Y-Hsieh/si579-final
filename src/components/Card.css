@@ -1,0 +1,26 @@
+.cards{
+    text-align: center;
+}
+
+.NPC-card{
+    background: antiquewhite;
+    //margin-left: 15%;
+    align-items: stretch;
+}
+
+.rival{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.unselected{
+    background: #8E8E93FF;
+}
+
+.conceal-button{
+    display: none;
+}
+
+.pokemon-image{
+    max-width: 200px;
+}
